@@ -1,3 +1,4 @@
+# Return oxford comma string from input array
 def oxford_comma(array)
   if array.length == 1
     string = array.join
